@@ -1,1 +1,88 @@
+<!DOCTYPE html>
 
+<html>
+
+<head>
+  <title>Dave Bryan Tanady's LinkedIn Page</title>
+  <meta charset="utf-8">
+  <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="white-box">
+    <div id=profile>
+      <img src="192adf06PCF91kCYu1nPLQg.jpeg" alt="profileBanner" class="profile-banner">
+      <img src="WhatsApp Image 2024-02-21 at 13.58.34.jpeg" alt="Dave Bryan Tanady's Profile Picture" class="profile-pic">
+    </div>
+  </div>
+
+  <div class="white-box">
+    <div id=title>
+      <h1>Dave Bryan Tanady</h1>
+      <p>H2 Computing Student</p>
+    </div>
+  </div>
+  
+  <div class="white-box">
+    <h2>About</h2>
+    <p>French Hornist originally from Indonesia currently learning computing under the esteemed Mr. Meng Hwee Lam</p>
+  </div>
+
+  <div class="white-box">
+    <h2>Education</h2>
+    <ul>
+      <li>
+        <div class=JC>
+          Junior College: Andersson Serangoon Junior College<br>
+          CCA:
+          <ol>
+            <li>Concert Band</li>
+            <li>Strategist Society</li>
+          </ol>
+          Achievements:<br>
+          Nil
+        </div>
+      </li>
+      <li>
+        <div class=HighSec>
+          Secondary School: Anglo Chinese School (Independent)<br>
+          CCA:
+          <ol>
+            <li>Symphonic Band (Section Leader in 2023)</li>
+            <li>Chess Club (Member)</li>
+            <li>Mathematics Competition Team (Member)</li>
+          </ol>
+          Achievements:
+          <ol>
+            <li>SYF Distinction 2023</li>
+            <li>Gold Attainer SASMO 2023</li>
+            <li>SIBF Silver 2022</li>
+            <li>SYF Distinction 2021</li>
+          </ol>
+    </ul>
+  </div>
+
+  <div class="white-box">
+    <h2>Skills</h2>
+    <ul>
+      <li>Composing (for orchestra/chamber)</li>
+      <li>Songwriting and Poetry</li>
+      <li>Teaching and Tutoring</li>
+    </ul>
+  </div>
+  
+  <div class="white-box">
+    <h2>Activity</h2>
+  </div>
+
+    <hr>
+
+  <div class="white-box">
+    <p><b>Why Computing?</b></p>
+    <hr>
+    <p>In this ever-growing out-of-control world, technology becomes far more present than it ever was before. What better way to get into it besides study it now?</p>
+    <sub><p dir="rtl">Posted 24/02/2024</p></sub>
+  </div>
+</body>
+
+</html>
